@@ -1,7 +1,5 @@
 # How to solve cloudflare | Using Puppeteer Node.JS
 
-![](https://assets.capsolver.com/prod/images/post/2024-08-21/bf6ef607-efde-4119-af8d-78846bbac354.png)
-
 I feel that the more automated tasks that are available nowadays, the more they are valued, so the challenges become more apparent and difficult. For example, Cloudflare currently provides strong security measures to protect websites from all forms of automation tools.
 
 But navigating these security features can be challenging for developers and organizations working on automation projects such as web scraping, data extraction, or testing. However, with the right tools and strategies, you can effectively address these challenges while remaining compliant with legal and ethical standards.
